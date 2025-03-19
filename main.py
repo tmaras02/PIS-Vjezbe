@@ -7,3 +7,5 @@ if __name__ == "__main__":
 def nova_funkcija():
     return "Ovo je nova funkcija."
     # Ovo je moj komentar - Domagoj Butić
+def nova_metoda():
+    return "Ovo je nova metoda 2."
